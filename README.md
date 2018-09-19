@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ice
 
 > Nuxt.js project
@@ -25,3 +26,6 @@ using a prerelease version of Node (i.e. v7.6.0-rc.1) you will need to either:
   2. Run `yarn` with a standard release of Node and then switch back
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+=======
+# ice
+>>>>>>> 649b00dd73d9c3c950d8cb4295ca6b6efff4607a
